@@ -4,4 +4,4 @@ matplotlib
 scikit-learn
 torch
 tqdm
-
+torch-summary
